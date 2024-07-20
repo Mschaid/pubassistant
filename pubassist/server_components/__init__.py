@@ -1,0 +1,1 @@
+from pubassist.server_components.assistant import Assistant
